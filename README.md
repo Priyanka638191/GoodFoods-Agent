@@ -1,10 +1,10 @@
-# 🍽️ GoodFoods: Agentic AI for Restaurant Discovery
+# 🍽️ GoodFoods: AI for Restaurant Discovery
 
 A localized, autonomous AI Agent designed for the **Coimbatore market**. This system leverages LLM reasoning to interpret natural language requests, navigate regional dining datasets, and manage table reservations via a custom API backend.
 
 ---
 
-## 🚀 The Core "Agentic" Innovation
+## 🚀 The Core Innovation
 Unlike a standard chatbot, this project implements a **Reasoning-Action (ReAct) Loop**.
 
 * **Tool Calling:** The agent autonomously determines when it needs external data and triggers Python functions to query the backend.
